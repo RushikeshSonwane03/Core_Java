@@ -1,1 +1,1 @@
-# Core_Java
+# Snapchat_CommandLine_App
